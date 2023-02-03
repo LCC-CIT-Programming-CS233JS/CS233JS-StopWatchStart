@@ -2,7 +2,7 @@
 {
     /*
         Add a constructor.  In the body of the constructor
-        -   Create instance variables for these 3 variables as well
+        -   Create instance variables for the 3 global 3 variables as well
             as all of the elements on the page that you're going to
             refer to in code
         -   All of the functionality of init will happen in the constructor.
